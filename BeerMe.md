@@ -14,10 +14,6 @@ Everything is published in the Google Cloud *nover* project.
 
 The application should be running [here](http://34.170.230.194:8080/)
 
-## Compute Engine
-
-The frontend and the backend run on the `scratchbox-1` compute engine.
-
 ## Frontend
 
 The Frontend provides the interface. It uses NodeJS to run the server. 
@@ -43,6 +39,10 @@ Uses the github repo [cwebber314/beerme_backend)](https://github.com/cwebber314/
 See the [API docs](http://34.170.230.194:8000/docs)
 
 Here's a [sample endpoint](http://34.170.230.194:8000/random-beer)
+
+## Compute Engine
+
+The frontend and the backend run on the `scratchbox-1` compute engine.
 
 ## FireBase
 
