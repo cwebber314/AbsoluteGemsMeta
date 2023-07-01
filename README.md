@@ -20,3 +20,4 @@ Repos for Absolute Gems projects are private:
 
 - [beerme_frontend](https://github.com/cwebber314/beerme_frontend)
 - [beerme_backend](https://github.com/cwebber314/beerme_backend)
+- [vertexai_tutorial](https://github.com/cwebber314/vertexai_tutorial)
